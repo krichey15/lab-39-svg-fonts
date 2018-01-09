@@ -5,8 +5,8 @@ const HTMLPlugin = require('html-webpack-plugin');
 
 // Makes a separate CSS bundle
 const ExtractPlugin = require('extract-text-webpack-plugin');
-const {EnvironmentPlugin, DefinePlugin} = require('webpack');
-let production = process.env.NODE_ENV === 'production';
+//const {EnvironmentPlugin, DefinePlugin} = require('webpack');
+//let production = process.env.NODE_ENV === 'production';
 
 module.exports = {
 
