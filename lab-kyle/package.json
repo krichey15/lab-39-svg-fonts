@@ -2,7 +2,7 @@
   "name": "lab-kyle",
   "version": "0.0.1",
   "description": "Lab-39",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "watch": "webpack-dev-server --inline -hot",
     "build": "webpack --optimize-minimize"
