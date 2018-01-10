@@ -4,7 +4,7 @@
   "description": "Lab-39",
   "main": "index.js",
   "scripts": {
-    "watch": "webpack-dev-server --inline -hot",
+    "watch": "webpack-dev-server --inline --hot",
     "build": "webpack --optimize-minimize"
   },
   "repository": {
