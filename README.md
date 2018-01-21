@@ -2,19 +2,14 @@
 ===
 
 ## Submission Instructions
-* Continue working from Lab-38
 * Submit a pull request
 
 #### Feture Tasks
-* add a Google-Font to your project useing an cdn url and @import
-* add Font-Awesome to your project useing yarn and an @import
-
-#### Test
-* Test your redux reducers 
-* Test your util methods
+* add a Google-Font to your project using an cdn url and @import
+* add Font-Awesome to your project using yarn and an @import
 
 ## Bonus 2pts
-* Create full crud for two resources 
+* Create drop down menu
 
 ####  Documentation  
 Write a description of the project in your README.md
